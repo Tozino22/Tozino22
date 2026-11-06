@@ -48,6 +48,16 @@ client-side — nothing leaves the browser.
 
 ---
 
+### AI Governance Series
+
+**[AICrib on YouTube ↗](https://www.youtube.com/@AI_Crib001)** · [aicrib.org](https://www.aicrib.org)
+
+A dramatized course on AI governance — where responsible AI stops being a slide deck
+and becomes a story. Fourteen episodes mapped against **ISO/IEC 42001**, the AAISM
+domains and real governance failures; episodes 1–2 published, more in production.
+
+---
+
 ### Frameworks I work in
 
 `ISO/IEC 42001` `ISO/IEC 42005` `ISO/IEC 27001` `ISO/IEC 27005` `NIST AI RMF`
