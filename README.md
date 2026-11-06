@@ -7,7 +7,9 @@ CISSP · CISA · CRISC · ISO/IEC 27001 Lead Auditor
 
 Completed **[AI Pathways: Energizing Canada’s Low Carbon Workforce — Technical Track](https://certificates.amii.ca/24efea84-3f76-4ef7-ada8-d8278f230825)** at **Amii**, the Alberta
 Machine Intelligence Institute — one of Canada’s three national AI institutes — delivered under the
-Government of Canada’s Sectoral Workforce Solutions Program.
+Government of Canada’s Sectoral Workforce Solutions Program. Issued October 2026.
+Assessed on ML problem framing, **AI model evaluation**, feature engineering, energy data
+translation and low-carbon transition, with a deployed capstone as submitted evidence.
 
 I build the tools that close the gap between finding a security problem and
 recording a treated, owned, evidenced decision about it — the step where
