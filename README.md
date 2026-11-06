@@ -3,7 +3,7 @@
 **AI security and governance · GRC · risk and audit**
 Atlantic Canada · [Northbridge](https://github.com/Tozino22)
 
-CISSP · CISA · CRISC · ISO/IEC 27001 Lead Auditor · ISACA AAISM
+CISSP · CISA · CRISC · ISO/IEC 27001 Lead Auditor 
 
 I build the tools that close the gap between finding a security problem and
 recording a treated, owned, evidenced decision about it — the step where
