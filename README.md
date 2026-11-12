@@ -1,7 +1,7 @@
 ## Tosin Aina
 
 **AI security and governance · GRC · risk and audit**
-Atlantic Canada · [Northbridge](https://github.com/Tozino22)
+Atlantic Canada · (https://github.com/Tozino22)
 
 CISSP · CISA · CRISC · ISO/IEC 27001 Lead Auditor
 
